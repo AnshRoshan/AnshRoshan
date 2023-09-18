@@ -1,11 +1,6 @@
 <h2 align="center"> Hi, I am <a href="https://github.com/AnshRoshan">Ansh Roshan </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h2>
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=anshroshan&label=Profile%20views&color=0e75b6&style=flat" alt="saha-7" /> </p>
 
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/anshroshan"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/anshzero"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="mailto:ianshroshan@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
-</p>
 <!----
 - 👀 I’m interested in python,java,javscipt
 - 🌱 I’m currently learning java.
